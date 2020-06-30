@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1001965900382",
+    "firebase_url": "https://saving-apps.firebaseio.com",
+    "project_id": "saving-apps",
+    "storage_bucket": "saving-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001965900382:android:7cb46f6e8b1fd293d55acf",
+        "android_client_info": {
+          "package_name": "com.example.saving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001965900382-h1eh5fppvvo3i7rrqoolslq6nf6mpsgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saving",
+            "certificate_hash": "e5c86243a7f79bb9078e0f965c105b1ada6f7986"
+          }
+        },
+        {
+          "client_id": "1001965900382-ia50cifcopbq1rfjhs235dtnfedjvi25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiY467XjhIpH054F4Q2GR6cKy_0TdojN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001965900382-ia50cifcopbq1rfjhs235dtnfedjvi25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

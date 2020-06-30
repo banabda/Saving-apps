@@ -1,0 +1,4 @@
+keytool -list -v -keystore "C:\Users\UserHighAdmin\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+MD5:  76:3C:C5:99:D2:A3:31:B7:72:07:FD:A6:4A:D4:6E:96
+SHA1: E5:C8:62:43:A7:F7:9B:B9:07:8E:0F:96:5C:10:5B:1A:DA:6F:79:86
+SHA256: 99:1D:8F:6B:6E:AD:B0:4E:85:31:7E:64:44:12:7E:9E:15:FC:0C:24:60:D0:00:FC:2D:83:79:65:DB:EC:8A:6F
